@@ -58,3 +58,4 @@ This is my github account:
 |  class-12      |    [ class-12](https://ghaidaamoh.github.io/reading_notes/code201reading_notes/class-12)|
 |  class-13      |    [ class-13](https://ghaidaamoh.github.io/reading_notes/code201reading_notes/class-13)|
 |  class-14a     |    [ class-14a](https://ghaidaamoh.github.io/reading_notes/code201reading_notes/class-14a)|
+|  class-14b     |    [ class-14b](https://ghaidaamoh.github.io/reading_notes/code201reading_notes/class-14b)|
