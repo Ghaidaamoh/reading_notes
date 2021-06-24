@@ -1,45 +1,34 @@
 # reading_notes
 
-## what is a growth mindest? 
--believes that one's fundamental abilities
-
--can _developed **through** perseverance_
-
-### perseverance,_and_ maintaining a ~~growth~~ mindset:
-1. __challenges__
-
-2. obstacles
-
-3. effort 
-
-4. criticism
-
-
-
-[Read01](https://ghaidaamoh.github.io/reading_notes/Read01)
-[Read02](https://ghaidaamoh.github.io/reading_notes/Read02)
-
-
-
 My name is Ghaidaa I'm 23 years old am studied at Philadelphia university, management information system and I'm so happy to be here and learn something new.
 
 
-This is my github account:
+- This is my github account:
+- [Ghaidaa](https://github.com/Ghaidaamoh)
 
-[Ghaidaa](https://github.com/Ghaidaamoh)
+- this repo include the summarization of differents topics that we take it in ASAC that include:
+
+# Code 102 - Intro to Software Development
+
+## Code 201 - Foundations of Software Development
+
+### Code 301 - Intermediate Software Development
+
+#### Code 401 - Advanced Software Development
+
 
 
 | Read102       |       links|       
 | :-------------   | :----------: | -----------: |
-|  Read01          |     [Read01](https://ghaidaamoh.github.io/reading_notes/Read01)|     
-| Read02           |     [Read02](https://ghaidaamoh.github.io/reading_notes/Read02) |
-|  Read03          |     [Read03](https://ghaidaamoh.github.io/reading_notes/read03)|
-|  read04a         |     [read04a](https://ghaidaamoh.github.io/reading_notes/read04a)| 
-|  read04b        |     [read04b](https://ghaidaamoh.github.io/reading_notes/read04b)| 
-|  read05        |     [read05](https://ghaidaamoh.github.io/reading_notes/read05)| 
-|  read06        |     [read06](https://ghaidaamoh.github.io/reading_notes/read06)| 
-|  read07        |     [read07](https://ghaidaamoh.github.io/reading_notes/read07)| 
-|  read09        |     [read09](https://ghaidaamoh.github.io/reading_notes/read09)| 
+|  Read01          |     [Read01](https://ghaidaamoh.github.io/reading_notes/Code102reading-notes/Read01)|     
+| Read02           |     [Read02](https://ghaidaamoh.github.io/reading_notes/Code102reading-notes/Read02) |
+|  Read03          |     [Read03](https://ghaidaamoh.github.io/reading_notes/Code102reading-notes/read03)|
+|  read04a         |     [read04a](https://ghaidaamoh.github.io/reading_notes/Code102reading-notes/read04a)| 
+|  read04b        |     [read04b](https://ghaidaamoh.github.io/reading_notes/Code102reading-notes/read04b)| 
+|  read05        |     [read05](https://ghaidaamoh.github.io/reading_notes/Code102reading-notes/read05)| 
+|  read06        |     [read06](https://ghaidaamoh.github.io/reading_notes/Code102reading-notes/read06)| 
+|  read07        |     [read07](https://ghaidaamoh.github.io/reading_notes/Code102reading-notes/read07)| 
+|  read09        |     [read09](https://ghaidaamoh.github.io/reading_notes/Code102reading-notes/read09)| 
  
 
 | Read201        |       links |       
@@ -63,4 +52,4 @@ This is my github account:
 
 | Read301        |       links |       
 |:------------- | :----------: | -----------:                                                              | 
-|  class01     |    [ class01](https://ghaidaamoh.github.io/reading_notes/code201reading_notes/class01)|
+|  class01     |    [ class01](https://ghaidaamoh.github.io/reading_notes/Code301reading-notes/class01)|
