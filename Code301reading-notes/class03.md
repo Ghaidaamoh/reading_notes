@@ -20,6 +20,7 @@
    - to expand an iterable object into the list of arguments. from ![image](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 
 - List 4 things that the spread operator can do.
+
 1. adding items to arrays
 2. combining arrays or objects
 3. spreading an array out into a function’s arguments.
