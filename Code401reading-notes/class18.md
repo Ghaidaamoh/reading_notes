@@ -64,7 +64,6 @@
 - Dynamoose is heavily inspired by Mongoose, which means if you are coming from Mongoose the syntax will be very familar.
 
 **Key Features**
-
 - Type safety
 - High level API
 - Easy to use syntax
