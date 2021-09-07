@@ -88,4 +88,5 @@ My name is Ghaidaa I'm 23 years old am studied at Philadelphia university, manag
 |  class16     |    [ class16](https://ghaidaamoh.github.io/reading_notes/Code401reading-notes/class16)|
 |  class17     |    [ class17](https://ghaidaamoh.github.io/reading_notes/Code401reading-notes/class17)|
 |  class18     |    [ class18](https://ghaidaamoh.github.io/reading_notes/Code401reading-notes/class18)|
+|  class19     |    [ class19](https://ghaidaamoh.github.io/reading_notes/Code401reading-notes/class19)|
 
