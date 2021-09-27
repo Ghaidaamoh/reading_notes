@@ -1,4 +1,4 @@
-# <Login /> and <Auth />
+# Login and Auth
 
 **Why is the Context API useful?**
 
