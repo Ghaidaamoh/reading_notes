@@ -1,6 +1,6 @@
 # Redux - Additional Topics
 
-***What’s the best practice for “pre-loading” data into the store (on application start) in a Redux application?**
+**What’s the best practice for “pre-loading” data into the store (on application start) in a Redux application?**
 
 - The most 'redux-like' way of handling the pre-loading of data would be to fire off the asynchronous action in the lifecycle method (probably componentWillMount) of a Higher Order Component that wraps your app.
 
